@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#064e3b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="400" fill="url(#g)"/>
+  <g transform="translate(80,60)" fill="#fff" opacity="0.95">
+    <circle cx="220" cy="120" r="80" fill="#064e3b" opacity="0.15"/>
+    <rect x="360" y="40" width="520" height="220" rx="18" fill="#062b1f" opacity="0.12"/>
+    <g transform="translate(40,20)">
+      <rect x="0" y="0" width="220" height="140" rx="12" fill="#0ea5a2" opacity="0.12"/>
+      <rect x="260" y="20" width="180" height="100" rx="10" fill="#60a5fa" opacity="0.10"/>
+      <rect x="480" y="40" width="320" height="80" rx="10" fill="#10b981" opacity="0.10"/>
+    </g>
+  </g>
+  <text x="80" y="320" fill="#d1fae5" font-size="36" font-family="Poppins, sans-serif">Kolaborasi • Keseimbangan • Pertumbuhan</text>
+</svg>
